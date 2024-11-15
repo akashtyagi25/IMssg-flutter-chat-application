@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "487858724060",
+    "project_id": "chatkoko-ae3f0",
+    "storage_bucket": "chatkoko-ae3f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487858724060:android:8575eaeb1cfef3b137a819",
+        "android_client_info": {
+          "package_name": "com.example.chatkoko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487858724060-5rusjmg149sm7o8279nfgbli7tc0hcep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatkoko",
+            "certificate_hash": "07c90cf34dd200a7c1a1d77049ed394240c23bce"
+          }
+        },
+        {
+          "client_id": "487858724060-pa877fckccdq0a5anegjb4nsmgbtkdmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7qlDqLpBjXtP1Qo7bvJsuCcmSxGaVvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487858724060-pa877fckccdq0a5anegjb4nsmgbtkdmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487858724060-dv4np1ks9ecke24rd1bp456gqdtu421t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatkoko"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
